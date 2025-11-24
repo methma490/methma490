@@ -51,21 +51,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- 🌿 **GreenGrow – Online Agriculture Management System (MERN)**  
-  Full-stack platform with consultant booking, community forum, courses & events.
-
-- 💧 **WellnessHub – Kotlin Mobile Health & Wellness App**  
-  Tracks water intake, reminders, and daily health habits.
-
-- 🚗 **AutoHub – Vehicle Service & Booking Website**  
-  Appointment booking, service history and responsive UI.
-
-> 🔧 *(Update the links above with your real repository URLs once they are public.)*
-
----
-
 ### 📫 How to Reach Me
 
 - 📧 **Email:** [methmagk@gmail.com](mailto:methmagk@gmail.com)  
