@@ -1,7 +1,5 @@
 <!-- Banner (update the src URL after you upload your banner image) -->
-<p align="center">
-  <img src="BANNER_IMAGE_URL" alt="Methma Sankalpani - Full-Stack Developer (MERN) & Kotlin Developer" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Methma Sankalpani</h1>
 
@@ -57,12 +55,6 @@
 
 - 🌿 **GreenGrow – Online Agriculture Management System (MERN)**  
   Full-stack platform with consultant booking, community forum, courses & events.
-
-- 🎨 **DreamPixel – AI Image Generation Platform**  
-  React + Node.js + AI image generation with a modern dark UI.
-
-- 📄 **NextGenCV – AI-Powered Resume Builder**  
-  Build ATS-friendly CVs with templates, sections and export features.
 
 - 💧 **WellnessHub – Kotlin Mobile Health & Wellness App**  
   Tracks water intake, reminders, and daily health habits.
