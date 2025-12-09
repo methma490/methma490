@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/methma-gk-751733317">
+  <a href="https://www.linkedin.com/in/methmagk74490">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:methmagk@gmail.com">
@@ -54,7 +54,7 @@
 ### 📫 How to Reach Me
 
 - 📧 **Email:** [methmagk@gmail.com](mailto:methmagk@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/methma-gk-751733317](https://www.linkedin.com/in/methma-gk-751733317)  
+- 🔗 **LinkedIn:** [linkedin.com/in/methmagk74490](https:/www.linkedin.com/in/methmagk74490)  
 
 Thanks for visiting my profile! ✨  
 Feel free to ⭐ any repo you like or connect with me on LinkedIn.
