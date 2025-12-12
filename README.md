@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Methma Sankalpani</h1>
 
 <h3 align="center">
-  Full-Stack Developer (MERN) | Kotlin Mobile App Developer<br/>
+  Full-Stack Developer | Mobile App Developer<br/>
   BSc (Hons) Information Technology (Special) Undergraduate @ SLIIT
 </h3>
 
