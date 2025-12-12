@@ -25,8 +25,8 @@
 ### 💡 About Me
 
 - 🎓 BSc (Hons) IT (Specializing in SE) Undergraduate at **SLIIT**
-- 💻 Building full-stack web apps using **MERN** (MongoDB, Express, React, Node.js)
-- 📱 Developing **Kotlin Android** apps focused on wellness & daily-life problems
+- 💻 Building full-stack web apps 
+- 📱 Developing **Mobile** apps 
 - 🤖 Interested in **AI-powered features**, automation & intelligent user experiences
 - 🎨 Love designing **clean UI/UX** and smooth user flows
 - 🌱 Always learning new tools, best practices and software architecture patterns
