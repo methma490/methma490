@@ -29,7 +29,6 @@
   <a href="https://www.instagram.com/methu.02">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
 </p>
 
 <!-- Animated Divider -->
@@ -39,26 +38,33 @@
 
 ---
 
-
-
-<img align="right" alt="Girl Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- ✅ Quick Facts LEFT + Coding Image RIGHT (Same Section) -->
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 💫 Quick Facts
 
-- 🎓 Pursuing **BSc (Hons) IT specializing in Software Engineering** at SLIIT
-- 💻 Passionate about building **scalable web applications** and **mobile apps**
-- 🤖 Deeply interested in **AI/ML integration** and intelligent automation
-- 🎨 Love crafting **beautiful UI/UX** with seamless user experiences
-- 🌱 Currently learning **AI/ML Engineering** and **Cloud Technologies**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, Kotlin, UI/UX Design**
-- 📫 Reach me at: **methmagk@gmail.com**
+- 🎓 Pursuing **BSc (Hons) IT specializing in Software Engineering** at SLIIT  
+- 💻 Passionate about building **scalable web applications** and **mobile apps**  
+- 🤖 Deeply interested in **AI/ML integration** and intelligent automation  
+- 🎨 Love crafting **beautiful UI/UX** with seamless user experiences  
+- 🌱 Currently learning **AI/ML Engineering** and **Cloud Technologies**  
+- 👯 Looking to collaborate on **Open Source Projects**  
+- 💬 Ask me about **React, Node.js, Kotlin, UI/UX Design**  
+- 📫 Reach me at: **methmagk@gmail.com**  
 - ⚡ Fun fact: **I debug with my eyes closed... just kidding! 😄**
+
+</td>
+<td width="40%" align="right" valign="top">
+
+<img alt="Girl Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -157,20 +163,6 @@
 </div>
 
 ---
-
-<!--## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<img src="https://github-profile-trophy.vercel.app/?username=methma490&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
------>
 
 ## 🎯 Featured Projects
 
@@ -289,14 +281,11 @@
 
 ---
 
-
-
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 
 <br>
 
@@ -315,7 +304,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
