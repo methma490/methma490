@@ -29,9 +29,7 @@
   <a href="https://www.instagram.com/methu.02">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/methma490">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  
 </p>
 
 <!-- Animated Divider -->
@@ -41,36 +39,10 @@
 
 ---
 
-## 🚀 About Me
+
 
 <img align="right" alt="Girl Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```typescript
-const methma = {
-    pronouns: "She/Her",
-    location: "Colombo, Sri Lanka 🇱🇰",
-    education: "BSc (Hons) SE @ SLIIT",
-    currentGPA: 3.19,
-    
-    code: ["JavaScript", "TypeScript", "Java", "Python", "Kotlin"],
-    
-    technologies: {
-        frontend: {
-            js: ["React.js", "Next.js"],
-            css: ["Tailwind CSS", "Bootstrap"]
-        },
-        backend: ["Node.js", "Express.js"],
-        mobile: ["Kotlin", "Android"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        misc: ["REST APIs", "JWT", "Git"]
-    },
-    
-    currentFocus: "Building AI-powered applications 🤖",
-    askMeAbout: ["Web dev", "Mobile dev", "UI/UX", "AI/ML"],
-    funFact: "I turn coffee into code ☕→💻",
-    lifePhilosophy: "Code. Learn. Improve. Repeat. 🔄"
-};
-```
 
 <br clear="right"/>
 
@@ -186,7 +158,7 @@ const methma = {
 
 ---
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -198,7 +170,7 @@ const methma = {
 
 </div>
 
----
+----->
 
 ## 🎯 Featured Projects
 
@@ -317,19 +289,7 @@ const methma = {
 
 ---
 
-## 💬 Random Dev Quote
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
----
 
 ## 📫 Let's Connect & Collaborate!
 
@@ -337,23 +297,6 @@ const methma = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<p>
-<a href="mailto:methmagk@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/methmagk74490">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://methmagk74490.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/methu.02">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://github.com/methma490">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
 
 <br>
 
