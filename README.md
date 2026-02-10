@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 About Me
+<!--## 🚀 About Me
 
 <img align="right" alt="Girl Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRkOGQ4YzQ4ZjZhM2U4YjQ4ZjZhM2U4YjQ4ZjZhM2U4YjQ4ZjZhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
@@ -72,7 +72,7 @@ const methma = {
 };
 ```
 
-<br clear="right"/>
+<br clear="right"/>-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -280,81 +280,11 @@ const methma = {
 
 ---
 
-## 🎓 Education & Certifications
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎯 Education
-
-<img src="https://img.icons8.com/fluency/96/000000/school.png" width="60"/>
-
-**BSc (Hons) IT**  
-*SLIIT (2023 - Present)*  
-Specialization: Software Engineering  
-Current GPA: **3.19**
-
-<img src="https://img.icons8.com/fluency/96/000000/book.png" width="50"/>
-
-**A/L Physical Science**  
-*Dharmasoka College (2019-2021)*
-
-</td>
-
-<td align="center" width="50%">
-
-### 📜 Certifications
 
 <img src="https://img.icons8.com/fluency/96/000000/certificate.png" width="60"/>
 
-✅ **AI/ML Engineer** - Stage 1  
-*SLIIT (2025)*
 
-✅ **Python for Beginners**  
-*University of Moratuwa (2025)*
-
-✅ **Python Programming**  
-*University of Moratuwa (2025)*
-
-✅ **UI/UX Bootcamp**  
-*Benchmark 3.0*
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
----
-
-## 💼 What I'm Up To
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-```javascript
-const currentlyDoing = {
-    🔭 workingOn: "AI-powered SaaS applications",
-    🌱 learning: ["AI/ML Engineering", "Cloud Computing", "Microservices"],
-    👯 lookingTo: "Collaborate on Open Source Projects",
-    🎯 2025Goals: [
-        "Land a Software Engineering Internship",
-        "Contribute to 100+ Open Source projects",
-        "Master Data Structures & Algorithms",
-        "Build 10 production-ready projects"
-    ],
-    💬 askMeAbout: ["Web Dev", "Mobile Dev", "UI/UX", "AI/ML"],
-    ⚡ funFact: "I can debug code faster than I can decide what to eat! 🍕"
-};
-```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -399,47 +329,7 @@ const currentlyDoing = {
 
 ---
 
-## 💬 Random Dev Quote
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
----
-
-## 🎵 Vibing To
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31l3rqmnoewu3inxinzjhk4uedqm&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true)](https://spotify-link-to-your-account.com)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
----
-
-## 💡 Random Dev Meme
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
----
 
 ## 📫 Let's Connect & Collaborate!
 
