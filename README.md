@@ -45,7 +45,7 @@
 ```typescript
 const methma = {
     location: "Colombo, Sri Lanka 🇱🇰",
-    education: "BSc (Hons) IT @ SLIIT",
+    education: "BSc (Hons) SE @ SLIIT",
     specialization: "Software Engineering",
     currentGPA: 3.19,
     roles: ["Full-Stack Developer", "Mobile Developer", "UI/UX Designer"],
