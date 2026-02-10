@@ -41,9 +41,9 @@
 
 ---
 
-<!--## 🚀 About Me
+## 🚀 About Me
 
-<img align="right" alt="Girl Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRkOGQ4YzQ4ZjZhM2U4YjQ4ZjZhM2U4YjQ4ZjZhM2U4YjQ4ZjZhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Girl Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```typescript
 const methma = {
@@ -72,7 +72,7 @@ const methma = {
 };
 ```
 
-<br clear="right"/>-->
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -280,18 +280,6 @@ const methma = {
 
 ---
 
-
-
-<img src="https://img.icons8.com/fluency/96/000000/certificate.png" width="60"/>
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
----
-
 ## 📈 Contribution Insights
 
 <div align="center">
@@ -329,7 +317,19 @@ const methma = {
 
 ---
 
+## 💬 Random Dev Quote
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+---
 
 ## 📫 Let's Connect & Collaborate!
 
@@ -362,16 +362,6 @@ const methma = {
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;First%2C+solve+the+problem.+Then%2C+write+the+code.;The+best+error+message+is+the+one+that+never+shows+up.;Make+it+work%2C+make+it+right%2C+make+it+fast." alt="Quote" />
 
 <br>
-
-### ☕ Support My Work
-
-<p>If you like my projects and want to support:</p>
-
-<a href="https://www.buymeacoffee.com/methma490">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
