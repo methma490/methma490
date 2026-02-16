@@ -53,7 +53,7 @@
 - 👯 Looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **React, Node.js, Kotlin, UI/UX Design**  
 - 📫 Reach me at: **methmagk@gmail.com**  
-- ⚡ Fun fact: **I debug with my eyes closed... just kidding! 😄**
+
 
 </td>
 <td width="40%" align="right" valign="top">
