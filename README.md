@@ -17,24 +17,6 @@
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 <br/>
-## 🧬 About Me
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340"/>
-```yaml
-name      : Methma Sankalpani
-role      : Software Engineering Undergraduate
-uni       : SLIIT — B.Sc.(Hons.) IT
-gpa       : 3.19 / 4.00
-location  : 🇱🇰 Malabe, Sri Lanka
-status    : 🟢 Open to Internships (2025/26)
-stack     : MERN · Next.js · Kotlin · Android
-passion   : Clean code · Scalable systems · Good UX
-```
-
-<br/><br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
----
 
 ## ⚙️ Tech Stack
 
