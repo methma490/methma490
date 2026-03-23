@@ -21,9 +21,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
+<br/>
+
 ## 🧬 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340"/>
 
 ```yaml
 name      : Methma Sankalpani
@@ -31,12 +33,12 @@ role      : Software Engineering Undergraduate
 uni       : SLIIT — B.Sc.(Hons.) IT
 gpa       : 3.19 / 4.00
 location  : 🇱🇰 Malabe, Sri Lanka
-status    : 🟢 Open to Internships
+status    : 🟢 Open to Internships (2025/26)
 stack     : MERN · Next.js · Kotlin · Android
 passion   : Clean code · Scalable systems · Good UX
 ```
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
@@ -46,31 +48,13 @@ passion   : Clean code · Scalable systems · Good UX
 
 <br/>
 
-<div align="center">
+<!-- ROW 1 — scrolls LEFT -->
+<img src="https://raw.githubusercontent.com/methma490/methma490/main/assets/tech_row1.svg" width="100%" alt="tech stack row 1"/>
 
-### 〔 Languages 〕
+<br/>
 
-<img src="https://skillicons.dev/icons?i=java,js,kotlin,python,cpp,php&theme=dark&perline=6" />
-
-<br/><br/>
-
-### 〔 Frontend 〕
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap&theme=dark&perline=6" />
-
-<br/><br/>
-
-### 〔 Backend & Database 〕
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=6" />
-
-<br/><br/>
-
-### 〔 Mobile & Tools 〕
-
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,git,github,figma,postman,vscode&theme=dark&perline=7" />
-
-</div>
+<!-- ROW 2 — scrolls RIGHT -->
+<img src="https://raw.githubusercontent.com/methma490/methma490/main/assets/tech_row2.svg" width="100%" alt="tech stack row 2"/>
 
 <br/>
 
