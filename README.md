@@ -1,11 +1,7 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1a0533,60:2d0a5e,100:7C3AED&height=280&section=header&text=Methma%20Sankalpani&fontSize=58&fontColor=ffffff&fontAlignY=45&desc=⟨%20Full-Stack%20Engineer%20%7C%20Android%20Developer%20%7C%20SLIIT%20'23%20⟩&descSize=16&descAlignY=65&animation=fadeIn&stroke=7C3AED&strokeWidth=2" width="100%"/>
-
 <br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=🚀+Full-Stack+Engineer+%7C+MERN+%7C+Next.js;📱+Android+Developer+%7C+Kotlin+%7C+Material+Design;🎯+SLIIT+Software+Engineering+%7C+GPA+3.19;💜+Turning+ideas+into+production-ready+software;🌍+Sri+Lanka+%7C+Open+to+Global+Internships)](https://git.io/typing-svg)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/methmagk74490)
@@ -18,15 +14,10 @@
 </div>
 
 ---
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 <br/>
-
 ## 🧬 About Me
-
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340"/>
-
 ```yaml
 name      : Methma Sankalpani
 role      : Software Engineering Undergraduate
@@ -49,12 +40,12 @@ passion   : Clean code · Scalable systems · Good UX
 <br/>
 
 <!-- ROW 1 — scrolls LEFT -->
-<img src="https://raw.githubusercontent.com/methma490/methma490/main/assets/tech_row1.svg" width="100%" alt="tech stack row 1"/>
+<img src="https://raw.githubusercontent.com/methma490/methma490/main/asserts/tech_row1.svg" width="100%" alt="tech stack row 1"/>
 
 <br/>
 
 <!-- ROW 2 — scrolls RIGHT -->
-<img src="https://raw.githubusercontent.com/methma490/methma490/main/assets/tech_row2.svg" width="100%" alt="tech stack row 2"/>
+<img src="https://raw.githubusercontent.com/methma490/methma490/main/asserts/tech_row2.svg" width="100%" alt="tech stack row 2"/>
 
 <br/>
 
@@ -62,33 +53,6 @@ passion   : Clean code · Scalable systems · Good UX
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/methma490/Online-Agriculture-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=methma490&repo=Online-Agriculture-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB"/>
-</a>
-<a href="https://github.com/methma490/HMS-part-methma">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=methma490&repo=HMS-part-methma&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB"/>
-</a>
-<a href="https://github.com/methma490/wellnesshub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=methma490&repo=wellnesshub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB"/>
-</a>
-<a href="https://github.com/methma490/Calmora">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=methma490&repo=Calmora&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB"/>
-</a>
-<a href="https://github.com/methma490/AutoHub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=methma490&repo=AutoHub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
----
 
 ## 📊 GitHub Stats
 
