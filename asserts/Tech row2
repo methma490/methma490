@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64">
+  <defs>
+    <linearGradient id="fade-l" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#0d0d1a"/>
+      <stop offset="8%" stop-color="transparent"/>
+    </linearGradient>
+    <linearGradient id="fade-r" x1="0%" x2="100%">
+      <stop offset="92%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="#0d0d1a"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="900" height="64"/></clipPath>
+  </defs>
+  <rect width="900" height="64" fill="#0d0d1a" rx="0"/>
+  <g clip-path="url(#clip)">
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        from="-1152,16" to="0,16"
+        dur="35s" repeatCount="indefinite"/>
+      <g transform="translate(0,0)"><rect rx="15" width="81" height="32" fill="#0d0d1a" stroke="#E34F26" stroke-width="1.4"/><text x="40" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#E34F26">HTML5</text></g>
+  <g transform="translate(93,0)"><rect rx="15" width="72" height="32" fill="#0d0d1a" stroke="#1572B6" stroke-width="1.4"/><text x="36" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#1572B6">CSS3</text></g>
+  <g transform="translate(177,0)"><rect rx="15" width="117" height="32" fill="#0d0d1a" stroke="#7952B3" stroke-width="1.4"/><text x="58" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#7952B3">Bootstrap</text></g>
+  <g transform="translate(306,0)"><rect rx="15" width="99" height="32" fill="#0d0d1a" stroke="#3DDC84" stroke-width="1.4"/><text x="49" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#3DDC84">Android</text></g>
+  <g transform="translate(417,0)"><rect rx="15" width="81" height="32" fill="#0d0d1a" stroke="#F24E1E" stroke-width="1.4"/><text x="40" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#F24E1E">Figma</text></g>
+  <g transform="translate(510,0)"><rect rx="15" width="63" height="32" fill="#0d0d1a" stroke="#F05032" stroke-width="1.4"/><text x="31" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#F05032">Git</text></g>
+  <g transform="translate(585,0)"><rect rx="15" width="99" height="32" fill="#0d0d1a" stroke="#FF6C37" stroke-width="1.4"/><text x="49" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#FF6C37">Postman</text></g>
+  <g transform="translate(696,0)"><rect rx="15" width="99" height="32" fill="#0d0d1a" stroke="#007ACC" stroke-width="1.4"/><text x="49" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#007ACC">VS Code</text></g>
+  <g transform="translate(807,0)"><rect rx="15" width="63" height="32" fill="#0d0d1a" stroke="#A78BFA" stroke-width="1.4"/><text x="31" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#A78BFA">JWT</text></g>
+  <g transform="translate(882,0)"><rect rx="15" width="63" height="32" fill="#0d0d1a" stroke="#777BB4" stroke-width="1.4"/><text x="31" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#777BB4">PHP</text></g>
+  <g transform="translate(957,0)"><rect rx="15" width="63" height="32" fill="#0d0d1a" stroke="#00599C" stroke-width="1.4"/><text x="31" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#00599C">C++</text></g>
+  <g transform="translate(1032,0)"><rect rx="15" width="108" height="32" fill="#0d0d1a" stroke="#FF6B6B" stroke-width="1.4"/><text x="54" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#FF6B6B">REST API</text></g>
+  <g transform="translate(1152,0)"><rect rx="15" width="81" height="32" fill="#0d0d1a" stroke="#E34F26" stroke-width="1.4"/><text x="40" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#E34F26">HTML5</text></g>
+  <g transform="translate(1245,0)"><rect rx="15" width="72" height="32" fill="#0d0d1a" stroke="#1572B6" stroke-width="1.4"/><text x="36" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#1572B6">CSS3</text></g>
+  <g transform="translate(1329,0)"><rect rx="15" width="117" height="32" fill="#0d0d1a" stroke="#7952B3" stroke-width="1.4"/><text x="58" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#7952B3">Bootstrap</text></g>
+  <g transform="translate(1458,0)"><rect rx="15" width="99" height="32" fill="#0d0d1a" stroke="#3DDC84" stroke-width="1.4"/><text x="49" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#3DDC84">Android</text></g>
+  <g transform="translate(1569,0)"><rect rx="15" width="81" height="32" fill="#0d0d1a" stroke="#F24E1E" stroke-width="1.4"/><text x="40" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#F24E1E">Figma</text></g>
+  <g transform="translate(1662,0)"><rect rx="15" width="63" height="32" fill="#0d0d1a" stroke="#F05032" stroke-width="1.4"/><text x="31" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#F05032">Git</text></g>
+  <g transform="translate(1737,0)"><rect rx="15" width="99" height="32" fill="#0d0d1a" stroke="#FF6C37" stroke-width="1.4"/><text x="49" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#FF6C37">Postman</text></g>
+  <g transform="translate(1848,0)"><rect rx="15" width="99" height="32" fill="#0d0d1a" stroke="#007ACC" stroke-width="1.4"/><text x="49" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#007ACC">VS Code</text></g>
+  <g transform="translate(1959,0)"><rect rx="15" width="63" height="32" fill="#0d0d1a" stroke="#A78BFA" stroke-width="1.4"/><text x="31" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#A78BFA">JWT</text></g>
+  <g transform="translate(2034,0)"><rect rx="15" width="63" height="32" fill="#0d0d1a" stroke="#777BB4" stroke-width="1.4"/><text x="31" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#777BB4">PHP</text></g>
+  <g transform="translate(2109,0)"><rect rx="15" width="63" height="32" fill="#0d0d1a" stroke="#00599C" stroke-width="1.4"/><text x="31" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#00599C">C++</text></g>
+  <g transform="translate(2184,0)"><rect rx="15" width="108" height="32" fill="#0d0d1a" stroke="#FF6B6B" stroke-width="1.4"/><text x="54" y="21" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12.5" font-weight="700" fill="#FF6B6B">REST API</text></g>
+    </g>
+  </g>
+  <rect width="80" height="64" fill="url(#fade-l)"/>
+  <rect x="820" width="80" height="64" fill="url(#fade-r)"/>
+</svg>
