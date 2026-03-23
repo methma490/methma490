@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1a0533,60:2d0a5e,100:7C3AED&height=280&section=header&text=Methma%20Sankalpani&fontSize=58&fontColor=ffffff&fontAlignY=45&desc=⟨%20Full-Stack%20Engineer%20%7C%20Android%20Developer%20%7C%20SLIIT%20'23%20⟩&descSize=16&descAlignY=65&animation=fadeIn&stroke=7C3AED&strokeWidth=2" width="100%"/>
 <br/>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=🚀+Full-Stack+Engineer+%7C+MERN+%7C+Next.js;📱+Android+Developer+%7C+Kotlin+%7C+Material+Design;🎯+SLIIT+Software+Engineering+%7C+GPA+3.19;💜+Turning+ideas+into+production-ready+software;🌍+Sri+Lanka+%7C+Open+to+Global+Internships)](https://git.io/typing-svg)
 <br/>
 
