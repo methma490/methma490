@@ -37,18 +37,6 @@
 ---
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=methma490&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB" height="175"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=methma490&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F59E0B&currStreakLabel=A78BFA&sideNums=E5E7EB&currStreakNum=ffffff&sideLabels=A78BFA&dates=6B7280" height="175"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methma490&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8" height="155"/>
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=methma490&bg_color=0D1117&color=A78BFA&line=7C3AED&point=F59E0B&area=true&area_color=2d0a5e&hide_border=true&custom_title=Contribution+Activity" width="96%"/>
 
